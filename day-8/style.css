@@ -1,0 +1,101 @@
+body {
+  background-color: #AEB8FE;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title>p {
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.dice {
+  width: 90px;
+  height: 90px;
+  border-radius: 10px;
+  background-color: #EFE5DC;
+  margin: 20px;
+  position: relative;
+  cursor: pointer;
+  transform: rotate(360deg)
+}
+
+.dot1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  position: absolute;
+  top: 35px;
+  left: 35px
+}
+
+.dot2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 10px;
+  left: 10px
+}
+
+.dot22 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 60px;
+  left: 60px
+}
+
+.dot4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 60px;
+  left: 10px
+}
+
+.dot42 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 10px;
+  left: 60px
+}
+
+.dot6 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 35px;
+  left: 10px
+}
+
+.dot62 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 0 50px 50px 0;
+  position: absolute;
+  top: 35px;
+  left: 60px
+}

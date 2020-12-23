@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  min-height: 50vh;
+}
+
+textarea {
+  min-width: 16rem;
+  min-height: 7rem;
+}
+
+#counterFooter {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.tweet-btn {
+  background-color: #1da1f2;
+  padding: 0.5rem 3rem;
+  color: #fff;
+  line-height: 1;
+  border-radius: 3rem;
+  border: 1px solid #fff;
+  transition: background-color 0.5s;
+}
+
+.tweet-btn:hover {
+  background-color: #077cc5;
+}
+
+.tweet-btn[disabled=true] {
+  background-color: #84939c;
+}
+
+.red {
+  color: #ec1b1b;
+}
