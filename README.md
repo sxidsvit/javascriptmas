@@ -2,9 +2,6 @@
 
 I accomplished all the challenges from December 1st 2020 up to now provided by Scrimba.
 
-Every day, they picked a winner who got a free yearly Scrimba Pro subscription.
-But I believe that I will win the main prize - $ 1000 😃
-
 It was really fun to see different approaches for the same problem. 🤔
 
 The challenges I enjoyed much were the ones with [Tweet Input Component](https://scrimba.com/scrim/cof534ca29ce316e2eb8112c6) (day 23) 🔥
