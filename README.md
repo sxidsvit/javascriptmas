@@ -32,3 +32,4 @@ The challenges I enjoyed much were the ones with [Tweet Input Component](https:/
 - [Day 21: Sum of Two](https://scrimba.com/scrim/coc4b476694463727a45352b8)
 - [Day 22: Extract Matrix Column](https://scrimba.com/scrim/co4c8498993b7a78375807020)
 - [Day 23: Tweet Input Component](https://scrimba.com/scrim/cof534ca29ce316e2eb8112c6)
+- [Day 24: Test Your Agility!](https://scrimba.com/scrim/co033439198afec80e5ccc156)

@@ -1,0 +1,81 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #bfdddd;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #333745;
+}
+
+.container {
+  width: 80%;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.nums {
+  display: flex;
+  flex-direction: row;
+}
+
+.nums h3 {
+  font-size: 1rem;
+}
+
+.nums h2 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.target,
+.spin {
+  margin: 1em 1em;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.target {
+  background: #1bc80e;
+  color: #f0e4e2;
+}
+
+.spin {
+  background: #04c2db;
+  color: #e91d53;
+}
+
+
+#result {
+  color: #e91d53;
+  text-align: center;
+}
+
+button {
+  font-family: 'Montserrat';
+  border: none;
+  font-weight: bold;
+  border-radius: 1.5em;
+  padding: 0.8em 2.5em;
+  display: inline-block;
+  margin: 1em 0.5em;
+  background: #333745;
+  color: rgb(238, 245, 219);
+}
+
+button:hover {
+  background: rgba(51, 55, 69, 0.8);
+}
