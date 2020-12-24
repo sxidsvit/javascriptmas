@@ -1,5 +1,13 @@
 # JavaScriptmas Solutions
 
+I accomplished all the challenges from December 1st 2020 up to now provided by Scrimba.
+
+Every day, they picked a winner who got a free yearly Scrimba Pro subscription.
+
+It was really fun to see different approaches for the same problem.
+
+The challenges I enjoyed much were the ones with [Tweet Input Component](https://scrimba.com/scrim/cof534ca29ce316e2eb8112c6) (day 23).
+
 - [Day 1: Candies](https://scrimba.com/scrim/co0ac496fab757f2c75e2fb62)
 - [Day 2: Deposit Profit](https://scrimba.com/learn/adventcalendar/note-at-1-14-co3ed443ab5cd3c4cd6196897)
 - [Day 3: Chunky Monkey](https://scrimba.com/learn/adventcalendar/note-at-0-00-coc7c4d47917d5998f509b896)
